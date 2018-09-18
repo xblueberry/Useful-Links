@@ -24,6 +24,12 @@ http://cs231n.stanford.edu/
 
 https://selfdrivingcars.mit.edu/
 
+### NLP
+
+https://www.tensorflow.org/tutorials/representation/word2vec
+
+https://skymind.ai/wiki/word2vec
+
 ## Research
 
 http://www.arxiv-sanity.com/
